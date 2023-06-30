@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays.csproj", "{3FFF6494-A294-4DCE-AE32-5F5569284226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayProblem2", "..\ArrayProblem2\ArrayProblem2.csproj", "{81AFDBA8-F984-454A-8532-2B34971A3F86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFF6494-A294-4DCE-AE32-5F5569284226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFF6494-A294-4DCE-AE32-5F5569284226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFF6494-A294-4DCE-AE32-5F5569284226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFF6494-A294-4DCE-AE32-5F5569284226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AFDBA8-F984-454A-8532-2B34971A3F86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AFDBA8-F984-454A-8532-2B34971A3F86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AFDBA8-F984-454A-8532-2B34971A3F86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AFDBA8-F984-454A-8532-2B34971A3F86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62273467-9B2C-4393-8F58-A9235846A2FC}
+	EndGlobalSection
+EndGlobal

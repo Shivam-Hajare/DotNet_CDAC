@@ -1,0 +1,15 @@
+E:\Dot_Net\Assignment\Assignment3\Employee\bin\Debug\net7.0\Employee.exe
+E:\Dot_Net\Assignment\Assignment3\Employee\bin\Debug\net7.0\Employee.deps.json
+E:\Dot_Net\Assignment\Assignment3\Employee\bin\Debug\net7.0\Employee.runtimeconfig.json
+E:\Dot_Net\Assignment\Assignment3\Employee\bin\Debug\net7.0\Employee.dll
+E:\Dot_Net\Assignment\Assignment3\Employee\bin\Debug\net7.0\Employee.pdb
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.csproj.AssemblyReference.cache
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.AssemblyInfoInputs.cache
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.AssemblyInfo.cs
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.csproj.CoreCompileInputs.cache
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.dll
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\refint\Employee.dll
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.pdb
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\Employee.genruntimeconfig.cache
+E:\Dot_Net\Assignment\Assignment3\Employee\obj\Debug\net7.0\ref\Employee.dll

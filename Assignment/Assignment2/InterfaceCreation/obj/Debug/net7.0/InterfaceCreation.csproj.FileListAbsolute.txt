@@ -1,0 +1,15 @@
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\bin\Debug\net7.0\InterfaceCreation.exe
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\bin\Debug\net7.0\InterfaceCreation.deps.json
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\bin\Debug\net7.0\InterfaceCreation.runtimeconfig.json
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\bin\Debug\net7.0\InterfaceCreation.dll
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\bin\Debug\net7.0\InterfaceCreation.pdb
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.csproj.AssemblyReference.cache
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.AssemblyInfoInputs.cache
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.AssemblyInfo.cs
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.csproj.CoreCompileInputs.cache
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.dll
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\refint\InterfaceCreation.dll
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.pdb
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\InterfaceCreation.genruntimeconfig.cache
+E:\Dot_Net\Assignment\Assignment2\InterfaceCreation\obj\Debug\net7.0\ref\InterfaceCreation.dll

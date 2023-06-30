@@ -1,0 +1,15 @@
+E:\Dot_Net\Assignment\Assignment3\Arrays\bin\Debug\net7.0\Arrays.exe
+E:\Dot_Net\Assignment\Assignment3\Arrays\bin\Debug\net7.0\Arrays.deps.json
+E:\Dot_Net\Assignment\Assignment3\Arrays\bin\Debug\net7.0\Arrays.runtimeconfig.json
+E:\Dot_Net\Assignment\Assignment3\Arrays\bin\Debug\net7.0\Arrays.dll
+E:\Dot_Net\Assignment\Assignment3\Arrays\bin\Debug\net7.0\Arrays.pdb
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.csproj.AssemblyReference.cache
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfoInputs.cache
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.AssemblyInfo.cs
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.csproj.CoreCompileInputs.cache
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.dll
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\refint\Arrays.dll
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.pdb
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\Arrays.genruntimeconfig.cache
+E:\Dot_Net\Assignment\Assignment3\Arrays\obj\Debug\net7.0\ref\Arrays.dll
