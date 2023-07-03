@@ -1,0 +1,15 @@
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.csproj.AssemblyReference.cache
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.AssemblyInfoInputs.cache
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.AssemblyInfo.cs
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.csproj.CoreCompileInputs.cache
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\bin\Debug\net7.0\collectionAssignment.exe
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\bin\Debug\net7.0\collectionAssignment.deps.json
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\bin\Debug\net7.0\collectionAssignment.runtimeconfig.json
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\bin\Debug\net7.0\collectionAssignment.dll
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\bin\Debug\net7.0\collectionAssignment.pdb
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.dll
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\refint\collectionAssignment.dll
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.pdb
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\collectionAssignment.genruntimeconfig.cache
+E:\Dot_Net\Assignment\Assignment5\collectionAssignment\obj\Debug\net7.0\ref\collectionAssignment.dll
