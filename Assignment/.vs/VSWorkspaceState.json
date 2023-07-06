@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assignment2",
-    "\\Assignment3",
     "\\Assignment3\\Arrays",
     "\\Assignment3\\Employee",
-    "\\Assignment3\\Inheritance"
+    "\\Assignment3\\Inheritance",
+    "\\Assignment5",
+    "\\Assignment5\\collectionAssignment"
   ],
+  "SelectedNode": "\\Assignment5\\collectionAssignment\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

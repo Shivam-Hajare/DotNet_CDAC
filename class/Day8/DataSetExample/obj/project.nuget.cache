@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tm3v+++w1Kxc7DUfo5KePjz1R47xkTrYjCX0zT7BBvqZeu2PCWO3ZMyHizqEZhA7aXNO5hzFpmGoPUbgK+Qz4A==",
+  "success": false,
+  "projectFilePath": "E:\\Dot_Net\\class\\Day8\\DataSetExample\\DataSetExample.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.Data.SqlClient"
+    }
+  ]
+}

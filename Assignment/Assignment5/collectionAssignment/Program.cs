@@ -1,4 +1,6 @@
-﻿namespace collectionAssignment
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace collectionAssignment
 {
     internal class Program
     {
@@ -14,15 +16,30 @@
                 if(ans.Equals("no"))
                 {
                     exit=true;
-
-                    return;
                 }
-                Console.WriteLine("Enter emp name and dept:");
-               map.Add(++count,new Employee(Console.ReadLine(),Console.ReadLine()));
+                else
+                {
+                    Console.WriteLine("Enter emp name and dept:");
+                    map.Add(++count, new Employee(Console.Read(), Console.Read()));
+
+                }
 
             }
             foreach (KeyValuePair<int, Employee> kvp in map)
-                Console.WriteLine("Key: {0}, Value: {1}", kvp.Key, kvp.Value);
+                Console.WriteLine("Key: {0}, Value: {1}", kvp.Key, kvp.Value.ToString());
+
+            //Display emp with hightght sal
+            Employee max = null;
+            max.Sal = 0;
+            foreach(KeyValuePair<int,Employee> kvp in map)
+            {
+                if(kvp.Value.Sal>max.Sal)
+                    Max=kvp.Value;
+            }
+            Console.WriteLine("Max sal of emp is: "+max);
+
+
+            Console.ReadKey();
         }
     }
     public class Employee
@@ -31,15 +48,17 @@
         private static int empNoCount=0;
         public  String Name { get; set; }
         public String Department { get; set; }
+        public double Sal { get; set; }
         public int EmpNo
         {
             get { return empNo; }
         }
-        public Employee( string name, string department)
+        public Employee( string name, string department,double sal)
         {
             this.empNo = ++empNoCount;
             Name = name;
             Department = department;
+            Sal = sal;
         }
 
         public override string ToString()
